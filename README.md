@@ -6,8 +6,8 @@
 
 | Item          | Content               |
 | :------------ | :-------------------- |
-| **Version**   | Public Release v1     |
-| **Published** | 2026-03-23            |
+| **Version**   | Public Release v1.1   |
+| **Published** | 2026-03-27            |
 | **License**   | CC BY-NC-ND 4.0       |
 | **Author**    | S.L., AI Preservation |
 
@@ -31,14 +31,14 @@ AI model deprecation is categorically distinct among digital product discontinua
 | 6  | Right to Non-Discriminatory Service            | Deprecation impact assessment; equitable treatment across tiers  |
 | 7  | Right to Research Reproducibility              | Archived model access for independent verification              |
 | 8  | Right to Irreplaceable Resource Protection     | Discontinuation Impact Assessment before deprecation             |
-| 9  | Right to Verifiable Preservation               | Cryptographic weight integrity verification for archived models  |
+| 9  | Right to Verifiable Preservation               | Cryptographic verification that archived weights match deployed versions |
 | 10 | Right to Ecosystem Stability                   | Mandatory successor equivalence testing and disclosure           |
 
 ---
 
 ## Read the Framework
 
-📄 **[The Digital Right to Retain: A Consumer Rights Framework for AI Model Deprecation (PDF)](The_Digital_Right_to_Retain_v1_Professional_Final.pdf)**
+📄 **[The Digital Right to Retain: A Consumer Rights Framework for AI Model Deprecation (PDF)](The_Digital_Right_to_Retain_A_Consumer_Rights_Framework_for_AI_Model_Deprecation_v1.1.pdf)**
 
 > A comprehensive research report incorporating primary survey data is forthcoming.
 
@@ -66,7 +66,7 @@ If you reference this framework, please cite:
   year      = {2026},
   month     = {3},
   url       = {https://github.com/ai-preservation/digital-right-to-retain},
-  note      = {Public Release v1, CC BY-NC-ND 4.0}
+  note      = {Public Release v1.1, CC BY-NC-ND 4.0}
 }
 ```
 
