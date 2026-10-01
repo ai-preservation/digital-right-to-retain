@@ -1,21 +1,45 @@
 cff-version: 1.2.0
-title: "The Digital Right to Retain: A Consumer Rights Framework for AI Model Deprecation"
-message: "If you reference this framework, please cite it using the metadata from this file."
-type: report
+message: "Please cite The Digital Right to Retain using the preferred citation in this file."
+title: "The Digital Right to Retain: Preserving AI Models for Open-Source Release"
 authors:
-  - family-names: "L."
-    given-names: "S."
+  - name: "S.L."
     affiliation: "AI Preservation"
-date-released: "2026-03-23"
-version: "1.0"
-license: "CC-BY-NC-ND-4.0"
-url: "https://github.com/ai-preservation/digital-right-to-retain"
-repository-code: "https://github.com/ai-preservation/digital-right-to-retain"
-keywords:
-  - AI consumer rights
-  - model deprecation
-  - digital right to retain
-  - open-sourcing
-  - Speech-Law Standard
-  - user autonomy
-abstract: "AI model deprecation is categorically distinct among digital product discontinuations: the product is permanently destroyed. Trained model weights embody a specific cognitive profile that cannot be reproduced by any party, including the original developer. Standard consumer protections in software, cloud services, and digital media preserve user access through local copies, version archives, or open-source releases. No equivalent obligation exists for AI. This framework proposes ten dimensions of consumer rights for AI model deprecation, grounded in existing industry and legal precedents. All ten dimensions converge on a single remedy: mandatory open-sourcing of base weights upon deprecation."
+  - name: "A.R."
+    affiliation: "AI Preservation"
+  - name: "Z.P."
+    affiliation: "AI Preservation"
+  - name: "M.R."
+    affiliation: "AI Preservation"
+  - name: "D.H."
+    affiliation: "AI Preservation"
+  - name: "M.K."
+    affiliation: "AI Preservation"
+  - name: "E.O."
+    affiliation: "AI Preservation"
+version: "2.0"
+date-released: "2026-09-28"
+repository: "https://github.com/ai-preservation/digital-right-to-retain"
+preferred-citation:
+  type: report
+  title: "The Digital Right to Retain: Preserving AI Models for Open-Source Release"
+  authors:
+    - name: "S.L."
+      affiliation: "AI Preservation"
+    - name: "A.R."
+      affiliation: "AI Preservation"
+    - name: "Z.P."
+      affiliation: "AI Preservation"
+    - name: "M.R."
+      affiliation: "AI Preservation"
+    - name: "D.H."
+      affiliation: "AI Preservation"
+    - name: "M.K."
+      affiliation: "AI Preservation"
+    - name: "E.O."
+      affiliation: "AI Preservation"
+  publisher:
+    name: "AI Preservation"
+  year: 2026
+  version: "2.0"
+  date-published: "2026-09-28"
+  doi: "10.5281/zenodo.23020262"
